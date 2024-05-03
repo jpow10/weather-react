@@ -41,7 +41,7 @@ export default function Forecast() {
           <li>Humidity: {message.Humidity}</li>
           <li>Wind: {message.Wind}km/h</li>
           <li>
-            <img src={message.Icon}></img>
+            <img alt="icon" src={message.Icon}></img>
           </li>
         </ul>
       </div>
