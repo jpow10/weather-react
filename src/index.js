@@ -10,6 +10,10 @@ root.render(
     <div className="App">
       <div>
         <Forecast />
+        <h3>
+          This code is open sourced on
+          <a href="https://github.com/jpow10/weather-react">Github</a>{" "}
+        </h3>
       </div>
     </div>
   </React.StrictMode>
