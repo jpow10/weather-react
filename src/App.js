@@ -10,17 +10,17 @@ export default function App() {
 
         <footer>
           This project was coded by{" "}
-          <a
+          <p
             href="https://www.delac.io/"
             target="_blank"
             rel="noopener noreferrer"
-          ></a>{" "}
+          ></p>{" "}
           and is{" "}
-          <a href="" target="_blank" rel="noopener noreferrer">
+          <a href="/" target="_blank" rel="noopener noreferrer">
             open-sourced on GitHub
           </a>{" "}
           and{" "}
-          <a href="" target="_blank" rel="noopener noreferrer">
+          <a href="/" target="_blank" rel="noopener noreferrer">
             hosted on Netlify
           </a>
         </footer>
